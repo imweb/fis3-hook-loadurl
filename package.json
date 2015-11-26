@@ -1,0 +1,27 @@
+{
+  "name": "fis3-hook-loadurl",
+  "version": "0.0.1",
+  "description": "解析require.loadUrl(...)语法",
+  "keywords": [
+    "fis3",
+    "fis3-hook",
+    "loadUrl"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imweb/fis3-hook-loadurl.git"
+  },
+  "author": {
+    "name": "lqlongli"
+  },
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/imweb/fis3-hook-loadurl/issues"
+  },
+  "homepage": "https://github.com/imweb/fis3-hook-loadurl",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
